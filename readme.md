@@ -1,7 +1,8 @@
 ## CertEagle - Asset monitoring utility using real time CT log feeds
 ![certeagle](https://raw.githubusercontent.com/devanshbatham/CertEagle/master/static/logo.PNG)
+
 ### Detailed Description about this can be found here :
-Read Blog here : [BLOGPOST LINK]
+Read Blog here : https://medium.com/@Asm0d3us/weaponizing-live-ct-logs-for-automated-monitoring-of-assets-39c6973177c7
 
 ### Introduction
 In Bugbounties “**If you are not first , then you are last**” there is no such thing as silver or a bronze medal , Recon plays a very crucial part and if you can detect/Identify a newly added asset earlier than others then the chances of you Finding/Reporting a security flaw on that asset and getting rewarded for the same are higher than others.
