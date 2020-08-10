@@ -72,7 +72,7 @@ The program will keep on running all the matched domains will be saved under out
 
 **Strict Warning : Do not monitor assets of any organisation without prior consent**
 
-### Inspriration 
+### Inspiration 
 
 [Sublert](https://github.com/yassineaboukir/sublert/) 
 
