@@ -1,0 +1,6 @@
+# Enter domains/keywords to monitor (Only Root domains)
+domains:
+      - .hackerone.com
+      - bugcrowd
+      - .s3.amazonaws.com
+      - .azurewebsites.net
