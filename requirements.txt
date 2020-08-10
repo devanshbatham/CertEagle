@@ -1,0 +1,11 @@
+certifi==2020.6.20
+certstream==1.11
+chardet==3.0.4
+idna==2.10
+pkg-resources==0.0.0
+PyYAML==5.3.1
+requests==2.24.0
+six==1.15.0
+termcolor==1.1.0
+urllib3==1.25.10
+websocket-client==0.57.0
