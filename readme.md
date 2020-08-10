@@ -28,11 +28,13 @@ Now Create a channel named “subdomain-monitor” and set up a incoming webhook
 
 Edit `config.yaml` file and paste your slack webhook URL there , It should look something like this
 ![config](https://raw.githubusercontent.com/devanshbatham/CertEagle/master/static/config.png)
+
 #### Keywords and domains to match :
 
 You can specify keywords and domains to match in `domains.yaml` file , You can specify names
 
 **For Matching subdomains :**
+
 ![domains.yaml](https://raw.githubusercontent.com/devanshbatham/CertEagle/master/static/domains.png)
 Note : Notice that preceding dot [ . ]
 
@@ -55,6 +57,7 @@ Okay we are done with our initial setup , Lets install the required dependencies
 **Matched domains will look like this :**
 
 ![](https://raw.githubusercontent.com/devanshbatham/CertEagle/master/static/output.png)
+
 **Slack Notifications will look like this :**
 
 ![enter image description here](https://raw.githubusercontent.com/devanshbatham/CertEagle/master/static/slack.png)
@@ -69,6 +72,7 @@ The program will keep on running all the matched domains will be saved under out
 **Strict Warning : Do not monitor assets of any organisation without prior consent**
 
 ### Inspriration 
+
 [Sublert](https://github.com/yassineaboukir/sublert/) 
 [Phishing Catcher](https://github.com/x0rz/phishing_catcher)
 
